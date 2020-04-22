@@ -1,0 +1,7 @@
+! ----- names for bodies -----
+$ right_extruded = 1
+$ left_extruded = 2
+$ air = 3
+! ----- names for boundaries -----
+$ boundary = 4
+$ empty = 5

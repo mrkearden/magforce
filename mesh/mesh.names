@@ -1,0 +1,6 @@
+! ----- names for bodies -----
+$ air = 1
+$ right = 2
+$ left = 3
+! ----- names for boundaries -----
+$ edges = 1
